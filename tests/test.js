@@ -64,9 +64,6 @@ describe('capitalizeWords', () => {
 
 // --------------------------
 
-test('Sanity Check', () => {
-  expect(2 + 2).toBe(4);
-});
 // Challenge 1
 test('test capitalize', () => {
   expect(capitalize('')).toBe('');
