@@ -1,0 +1,30 @@
+{
+  "name": "@maybejaybe/string-lib",
+  "version": "1.1.2",
+  "description": "Javascript Library of String functions created to make life just a little easier.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jay",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeJaybe/string-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaybeJaybe/string-lib/issues"
+  },
+  "homepage": "https://github.com/MaybeJaybe/string-lib#readme",
+  "directories": {
+    "test": "tests",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "jest": "^27.5.1"
+  }
+}
