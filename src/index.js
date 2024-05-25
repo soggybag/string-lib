@@ -192,4 +192,3 @@ module.exports.snakeCase = snakeCase;
 module.exports.camelCase = camelCase;
 module.exports.shift = shift;
 module.exports.makeHashtag = makeHashtag;
-// module.exports.isEmpty = isEmpty;
