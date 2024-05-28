@@ -1,7 +1,11 @@
 # String Lib
 
-![npm bundle size](https://img.shields.io/bundlephobia/min/@maybejaybe/string-lib)
-![npm](https://img.shields.io/npm/v/@maybejaybe/string-lib)
+![npm bundle size](https://img.shields.io/bundlephobia/min/soggybag/string-lib)
+
+![npm](https://img.shields.io/npm/v/soggybag/string-lib)
+
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/soggybag/https%3A%2F%2Fgithub.com%2Fsoggybag%2Fstring-lib)
+
 
 Javascript Library of String functions created to make life just a little easier.
 
